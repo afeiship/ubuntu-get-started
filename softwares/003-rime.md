@@ -23,3 +23,4 @@ ascii_composer:
 ## resources
 - https://github.com/rime/home/wiki/RimeWithIBus
 - https://www.jianshu.com/p/4793e55751ec
+- https://www.jianshu.com/p/67265175357e
