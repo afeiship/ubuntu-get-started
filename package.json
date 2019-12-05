@@ -1,0 +1,11 @@
+{
+  "name": "ubuntu-get-started",
+  "version": "1.0.0",
+  "description": "When u met a new ubuntu.",
+  "homepage": "https://github.com/afeiship",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT"
+}
