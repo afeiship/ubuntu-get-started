@@ -19,4 +19,5 @@ chmod 600 *.*
 ```shell
 sudo apt-get install git curl vim
 sudo apt-get install autojump
+sudo apt install net-tools
 ```
