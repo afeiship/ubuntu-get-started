@@ -15,3 +15,4 @@ ln -s /usr/share/applications/albert.desktop ~/.config/autostart/
 ## resources
 - https://blog.csdn.net/jankin6/article/details/80430223
 - https://github.com/albertlauncher/albert
+- https://github.com/albertlauncher/albert/issues/11
